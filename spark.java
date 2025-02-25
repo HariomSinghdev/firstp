@@ -3,7 +3,10 @@ class spark{
         System.out.println("hello");
     }
     public void add(){
-        System.out.println("we are addding");
+        System.out.println("we are addding notificatiog");
+    }
+    public void notification(){
+        System.out.println("notification");
     }
 
 }
