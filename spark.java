@@ -8,5 +8,8 @@ class spark{
     public void notification(){
         System.out.println("notification");
     }
+    public void auth(){
+        System.out.println("notification");
+    }
 
 }
